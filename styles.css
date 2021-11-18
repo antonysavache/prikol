@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 500px;
+}
+
+.text {
+    display: flex;
+    align-items: center 
+;}
+
+button {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
